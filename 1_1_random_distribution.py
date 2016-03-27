@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Random walk
+Random distribution
 """
 import sys
 import random
